@@ -5,3 +5,4 @@ rambawewa
 kanaththewewa
 
 matara
+saman
